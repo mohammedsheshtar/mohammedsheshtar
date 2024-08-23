@@ -3,9 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.webp">
 
-- 🔭 I’m currently working on **a shmup**
-
-- 🌱 I’m currently learning **computer architecture**
+- 🌱 I’m currently learning **Software Engineering**
 
 - 📫 How to reach me **mohammed.sheshtar@okstate.edu**
 
