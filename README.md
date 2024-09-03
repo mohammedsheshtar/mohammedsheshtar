@@ -3,11 +3,12 @@
 
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.webp">
 
-- 🌱 I’m currently learning **Software Engineering**
+- I’m currently learning **Software Engineering**
 
-- 📫 How to reach me **mohammed.sheshtar@okstate.edu**
+- How to reach me **mohammed.sheshtar@okstate.edu**
 
-- ⚡ Fun fact **I like to write stories**
+- Fun fact **I like to write stories**
+- Currently working on developing an Autonomous Firefighting Vehicle
 
 
 <p align="left">
