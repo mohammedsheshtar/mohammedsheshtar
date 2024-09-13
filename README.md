@@ -9,7 +9,7 @@
     <ul>
       <li>I’m currently learning <strong>Software Engineering</strong></li>
       <li>How to reach me: <strong>mohammed.sheshtar@okstate.edu<strong></li>
-      <li>Fun fact: <strong>I like to write stories<strong></li>
+      <li>Fun fact: <strong>I like to write stories</strong></li>
       <li>Currently working on developing an <strong>Autonomous Firefighting Vehicle</strong></li>
     </ul>
   </div>
