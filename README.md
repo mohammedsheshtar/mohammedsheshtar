@@ -3,10 +3,12 @@
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
-    - I’m currently learning **Software Engineering**<br>
-    - How to reach me **mohammed.sheshtar@okstate.edu**<br>
-    - Fun fact **I like to write stories**<br>
-    - Currently working on developing an Autonomous Firefighting Vehicle
+    <ul>
+      <li><strong>I’m currently learning Software Engineering</strong></li>
+      <li><strong>How to reach me:</strong> mohammed.sheshtar@okstate.edu</li>
+      <li><strong>Fun fact:</strong> I like to write stories</li>
+      <li><strong>Currently working on developing an Autonomous Firefighting Vehicle</strong></li>
+    </ul>
   </div>
   <div style="flex: 1; text-align: right;">
     <img alt="Coding" width="400" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.webp">
