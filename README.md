@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed Sheshtar</h1>
-<h3 align="center">A passionate CE from Kuwait</h3>
+<h3 align="center">A passionate CE from Kuwait🇰🇼</h3>
   <div style="flex: 1; text-align: right;">
     <img alt="Coding" width="400" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.webp">
   </div>
