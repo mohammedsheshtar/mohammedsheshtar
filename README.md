@@ -8,7 +8,7 @@
   <div style="flex: 1;">
     <ul>
       <li>I’m currently learning <strong>Software Engineering</strong></li>
-      <li>Currently working on developing an <strong>Autonomous Firefighting Vehicle</strong></li>
+      <li> Working on developing an <strong>Autonomous Firefighting Vehicle</strong></li>
       <li>How to reach me: <strong>mohammed.sheshtar@okstate.edu</strong></li>
       <li>Fun fact: I like to write stories</li>
     </ul>
