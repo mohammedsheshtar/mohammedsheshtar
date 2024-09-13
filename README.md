@@ -5,7 +5,7 @@
 
 
 
-- I’m currently learning **Software Engineering**
+-  I’m currently learning **Software Engineering**
 - How to reach me **mohammed.sheshtar@okstate.edu**
 - Fun fact **I like to write stories**
 - Currently working on developing an Autonomous Firefighting Vehicle
