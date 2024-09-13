@@ -7,8 +7,8 @@
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
     <ul>
-      <li><strong>I’m currently learning Software Engineering</strong></li>
-      <li><strong>How to reach me:</strong> mohammed.sheshtar@okstate.edu</li>
+      <li>I’m currently learning <strong>Software Engineering</strong></li>
+      <li>How to reach me:<strong>mohammed.sheshtar@okstate.edu</strong></li>
       <li><strong>Fun fact:</strong> I like to write stories</li>
       <li><strong>Currently working on developing an Autonomous Firefighting Vehicle</strong></li>
     </ul>
