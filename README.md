@@ -1,16 +1,17 @@
 <h1 align="center">Hi 👋, I'm Mohammed Sheshtar</h1>
 <h3 align="center">A passionate CE from Kuwait</h3>
 
-<div style="clear: both;">
-  <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.webp">
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    - I’m currently learning **Software Engineering**<br>
+    - How to reach me **mohammed.sheshtar@okstate.edu**<br>
+    - Fun fact **I like to write stories**<br>
+    - Currently working on developing an Autonomous Firefighting Vehicle
+  </div>
+  <div style="flex: 1; text-align: right;">
+    <img alt="Coding" width="400" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.webp">
+  </div>
 </div>
-
-- I’m currently learning **Software Engineering**
-- How to reach me **mohammed.sheshtar@okstate.edu**
-- Fun fact **I like to write stories**
-- Currently working on developing an Autonomous Firefighting Vehicle
-
-<p align="left"></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
