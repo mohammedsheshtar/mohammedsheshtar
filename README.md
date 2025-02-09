@@ -4,8 +4,8 @@
 <div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
   <img alt="Coding" width="400" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.webp">
   <ul>
-    <li>I’m currently learning <strong>Software Engineering</strong></li>
-    <li>Working on developing an <strong>Autonomous Firefighting Vehicle</strong></li>
+    <li>I’m currently learning <strong>Full Stack Development</strong></li>
+    <li>Working on developing a <strong>Pokedex Database Through SQL</strong></li>
     <li>Fun fact: I like to write stories</li>
     <li>How to reach me: <strong>msheshtar@gmail.com</strong></li>
   </ul>
