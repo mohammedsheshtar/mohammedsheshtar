@@ -1,18 +1,22 @@
 <h1 align="center">Hi 👋, I'm Mohammed Sheshtar</h1>
 <h3 align="center">A passionate CE from Kuwait</h3>
 
-<div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
+<p align="center">
   <img alt="Coding" width="400" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.webp">
+</p>
+
+<p align="center">
   <ul>
     <li>I’m currently learning <strong>Full Stack Development</strong></li>
     <li>Working on developing a <strong>Pokedex Database Through SQL</strong></li>
     <li>Fun fact: I like to write stories</li>
     <li>How to reach me: <strong>msheshtar@gmail.com</strong></li>
   </ul>
-</div>
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="center">Languages and Tools:</h3>
+
+<p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
   </a>
